@@ -67,14 +67,14 @@ export function Header() {
           <div className="xsm:flex xsm:gap-1 xs:gap-3">
             <a
               className="flex items-center justify-center"
-              href="https://github.com/REFH4CK"
+              href="https://github.com/0xRefDev"
               target="_blank"
             >
               <Github />
             </a>
             <a
               className="flex items-center justify-center"
-              href="https://www.instagram.com/refh4ck/"
+              href="https://www.instagram.com/0xref.dev/"
               target="_blank"
             >
               <Instagram />
@@ -87,7 +87,7 @@ export function Header() {
               <LinkedIn />
             </a>
             <a
-              href="https://drive.google.com/file/d/19rfuESKEXynGgNdTrjLyhyFa-_ICWLtu/view?usp=sharing"
+              href="https://drive.google.com/file/d/1t3A7LfCBk2wIeY0_G7whn45pL5lhjbi9/view?usp=drive_link"
               target="_blank"
               className="p-2 w-8 h-8 justify-center items-center rounded-full text-white/80 outline outline-[#0acf8395] text-sm bg-white/5 text-center shadow-[#0acf8325] shadow-lg hover:bg-white/20 transition-colors xsm:hidden md:flex"
             >
