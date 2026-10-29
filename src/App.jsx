@@ -17,7 +17,7 @@ export function App() {
         </section>
         <section
           id="skills"
-          className="flex flex-col items-center w-full xsm:h-fit lg:h-[100dvh] pt-6"
+          className="flex flex-col items-center w-full xsm:h-fit lg:h-[100dvh]"
         >
           <Skills />
         </section>
