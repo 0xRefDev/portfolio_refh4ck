@@ -14,7 +14,7 @@ export function Skills() {
             xsm:flex-col-reverse xms:items-center
             lg:w-[60rem] lg:flex-row lg:h-[34rem] xl:w-[60rem]
             rounded-3xl outline outline-[5px]
-            outline-skillsOutline/15 mt-8
+            outline-skillsOutline/15 mt-5
           `}
         >
           <article className="flex flex-col justify-center items-center lg:w-[50%] xsm:h-[26rem] lg:h-auto">
