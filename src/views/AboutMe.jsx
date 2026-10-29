@@ -20,27 +20,17 @@ export function AboutMe() {
               full-stack con especial interés en el frontend y en la creación de
               experiencias web funcionales, intuitivas y cuidadas al detalle.
               <br /> <br />
-              Mi camino en la programación comenzó en 2020, impulsado por la curiosidad
-              de entender cómo funcionan las cosas y la motivación de crear soluciones
-              propias. Desde entonces, he combinado el aprendizaje autodidacta con mi
-              formación en Ingeniería Informática, desarrollando proyectos que abarcan
-              desde aplicaciones de finanzas personales hasta herramientas y plataformas
-              para comunidades de videojuegos.
+              Desde 2020, mi curiosidad por la tecnología me ha llevado a aprender
+              constantemente y desarrollar proyectos propios, combinando el aprendizaje
+              autodidacta con mi formación en Ingeniería Informática. Disfruto
+              transformando ideas en productos reales, desde su diseño hasta su
+              despliegue, trabajando tanto en el frontend como en el backend.
               <br /> <br />
-              Trabajo principalmente con tecnologías como React, TypeScript y Tailwind
-              CSS, sin perder de vista el backend, las bases de datos y la integración de
-              servicios necesarios para construir aplicaciones completas. Disfruto
-              llevando una idea desde su concepción hasta su despliegue, cuidando tanto
-              la experiencia de usuario como el funcionamiento interno del producto.
-              <br /> <br />
-              Me caracterizo por mi creatividad, persistencia y atención al detalle.
-              Cuando surge un problema, busco comprender su causa raíz y abordarlo de
-              forma estructurada, priorizando soluciones que tengan sentido y aporten
-              valor real.
-              <br /> <br />
-              Mi objetivo es seguir creciendo profesionalmente, colaborar con equipos
-              que valoren la calidad del software y contribuir a crear productos útiles,
-              bien diseñados y preparados para evolucionar.
+              Me considero una persona creativa, persistente y analítica, con especial
+              atención al detalle. Me gusta comprender los problemas desde su raíz y
+              encontrar soluciones que aporten valor real a los usuarios. Mi objetivo es
+              seguir creciendo profesionalmente y contribuir a construir productos útiles
+              y bien diseñados junto a grandes equipos de desarrollo.
             </p>
             <div className="flex gap-4 xsm:justify-center lg:justify-start">
               <a
