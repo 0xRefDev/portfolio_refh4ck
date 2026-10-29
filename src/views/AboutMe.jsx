@@ -3,11 +3,11 @@ import photo from "@/assets/images/me.png";
 export function AboutMe() {
   return (
     <>
-      <article className="flex flex-col justify-center items-center w-full xsm:h-fit lg:h-[100dvh] pt-[6rem] 2xl:pt-[0rem] max-w-[1366px] mx-auto mb-8">
+      <article className="flex flex-col justify-center items-center w-full xsm:h-fit lg:h-[100dvh] pt-[4rem] 2xl:pt-[0rem] max-w-[1366px] mx-auto mb-8">
         <h1 className="xsm:w-[95%] lg:mt-0 text-white text-3xl lg:w-[60rem] text-left font-Jura uppercase font-semibold">
           Sobre mí
         </h1>
-        <section className="xsm:w-[95%] xsm:flex-col relative flex lg:flex-row gap-6 lg:w-[60rem] p-6 bg-slate-900/85 mt-8 rounded-2xl shadow-xl">
+        <section className="xsm:w-[95%] xsm:flex-col relative flex lg:flex-row gap-6 lg:w-[60rem] p-6 bg-slate-900/85 mt-4 rounded-2xl shadow-xl">
           <img
             src={photo}
             className="w-[20rem] xsm:self-center "
