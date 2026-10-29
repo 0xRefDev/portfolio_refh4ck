@@ -16,18 +16,31 @@ export function AboutMe() {
           <div className="flex flex-col gap-4">
             <p className="pt-4 w-full text-pretty text-white/60 font-sans font-light">
               Mi nombre es{" "}
-              <strong className="text-white/75">Andrés Hernández</strong>, y mi
-              interés por el mundo de la programación comenzó a mediados de
-              2020, impulsado por una curiosidad innata por entender cómo
-              funcionan las cosas.
+              <strong className="text-white/75">Andrés Hernández</strong>, desarrollador
+              full-stack con especial interés en el frontend y en la creación de
+              experiencias web funcionales, intuitivas y cuidadas al detalle.
               <br /> <br />
-              Me intrigaba descubrir cómo se construyen las páginas web y cómo
-              es posible lograr interacción con el usuario a través del código.
+              Mi camino en la programación comenzó en 2020, impulsado por la curiosidad
+              de entender cómo funcionan las cosas y la motivación de crear soluciones
+              propias. Desde entonces, he combinado el aprendizaje autodidacta con mi
+              formación en Ingeniería Informática, desarrollando proyectos que abarcan
+              desde aplicaciones de finanzas personales hasta herramientas y plataformas
+              para comunidades de videojuegos.
               <br /> <br />
-              Desde ese momento, esta curiosidad se transformó en una verdadera
-              pasión por la programación y la tecnología en general, llevándome
-              a explorar, aprender y crecer continuamente en este apasionante
-              campo.
+              Trabajo principalmente con tecnologías como React, TypeScript y Tailwind
+              CSS, sin perder de vista el backend, las bases de datos y la integración de
+              servicios necesarios para construir aplicaciones completas. Disfruto
+              llevando una idea desde su concepción hasta su despliegue, cuidando tanto
+              la experiencia de usuario como el funcionamiento interno del producto.
+              <br /> <br />
+              Me caracterizo por mi creatividad, persistencia y atención al detalle.
+              Cuando surge un problema, busco comprender su causa raíz y abordarlo de
+              forma estructurada, priorizando soluciones que tengan sentido y aporten
+              valor real.
+              <br /> <br />
+              Mi objetivo es seguir creciendo profesionalmente, colaborar con equipos
+              que valoren la calidad del software y contribuir a crear productos útiles,
+              bien diseñados y preparados para evolucionar.
             </p>
             <div className="flex gap-4 xsm:justify-center lg:justify-start">
               <a
