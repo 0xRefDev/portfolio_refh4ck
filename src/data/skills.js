@@ -1,7 +1,7 @@
 // ## Competencies Logos
 import { ReactLogo } from "@/icons/Competencies/ReactLogo";
 import { AstroLogo } from "@/icons/Competencies/AstroLogo";
-// import { NextLogo } from "@/icons/Competencies/NextLogo";
+import { NextLogo } from "@/icons/Competencies/NextLogo";
 import { CssLogo } from "@/icons/Competencies/CssLogo";
 import { HtmlLogo } from "@/icons/Competencies/HtmlLogo";
 import { JavaScriptLogo } from "@/icons/Competencies/JavaScriptLogo";
@@ -33,7 +33,7 @@ export const skillsInfo = [
     techs: [
       { name: "React", icon: createElement(ReactLogo), color: "#61DAFB" },
       { name: "Node", icon: createElement(NodeLogo), color: "#6CC04A" },
-      // { name: "Next.js", icon: createElement(NextLogo), color: "#000014" },
+      { name: "Next.js", icon: createElement(NextLogo), color: "#000014" },
       {name: "JavaScript", icon: createElement(JavaScriptLogo), color: "#F7DF1E" },
       { name: "CSS", icon: createElement(CssLogo), color: "#663399" },
       { name: "Tailwind", icon: createElement(TailwindLogo), color: "#06B6D4" },
