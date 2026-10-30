@@ -12,7 +12,7 @@ export function Skills() {
             flex bg-skills-container/60
             xsm:w-[95%] xsm:h-[auto]
             xsm:flex-col-reverse xms:items-center
-            lg:w-[60rem] lg:flex-row lg:h-[34rem] xl:w-[60rem]
+            lg:w-[60rem] lg:flex-row lg:h-[36rem] xl:w-[60rem]
             rounded-3xl outline outline-[5px]
             outline-skillsOutline/15 mt-4
           `}
